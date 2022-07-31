@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "test": "nyc --reporter=text-summary --reporter=html mocha -R spec test/index.spec.js",
-    "coverage": "nyc --reporter=text-lcov mocha -R spec test/index.spec.js | coveralls",
+    "coverage": "nyc --reporter=text-lcov mocha -R spec test/index.spec.js | coveralls"
   },
   "author": "Mohamed El-Bably",
   "license": "ISC",

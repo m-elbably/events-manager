@@ -1,4 +1,5 @@
 # **Events Manager**
+> Obsolete Code: Please use [Process PubSub](https://github.com/m-elbably/process-pubsub) 
 
 ![Events Manager Flow](./img/flow.png "Events Manager Flow")
 
